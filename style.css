@@ -1083,8 +1083,7 @@ body {
     right: 0;
     z-index: 5;
     background-color: white;
-    padding: 16px;
-    padding-top: 24px;
+    padding:24px 16px 16px 16px;
     box-sizing: border-box;
     box-shadow: -16px 0 52px 0 #dfdbdb;
     border-left: 0.4px solid #d9fff5; }
